@@ -8,7 +8,7 @@ const Aboutr = () => {
                     <img src="./img/op8.jpg" className=' w-100 my-5 data' alt="..." />
                 </div>
                 <div className=' col-sm-4 my-4 align-self-center sender'>
-                    <p>I Am Om Prakash Gupta From Samahuta.I Am Student of Class M.C.A Frist year From KALINGA UNIVERSITY (RAIPUR)..I Have Completed B.C.A  From Jawaharlal Nehru College (Dehri on Sone), I Have Created Many Project Using This Langauges.It Has Been Uploaded On My Github Account.</p>
+                    <p>I Am Om Prakash Gupta From Bihar. I Have Completed a Master of Computer Application from Kalinaga University in Raipur.I have a diverse background in the corporate world, with experience gained from multiple multinational companies.</p>
                 </div>
 
             </div>

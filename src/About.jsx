@@ -48,7 +48,7 @@ const About = () => {
                     <hr />
                     <h5 className='honda'>FULL STACK DEVELOPMENT(MERN)</h5>
                     <hr />
-                    <p className='paragraf'>I Am Full-Stack Developer(MERN),I Have created many project using Different Langauges.But I a'm Fresher and Student of Frist Year MCA.I Want aN Opportunity to Improvement Myself.</p>
+                    <p className='paragraf'>I am a qualified and professional MERN STACK DEVELOPER, My expertise in front-end, back-end and App-development has allowed me to create websites/App that not only look great but also function smoothly and efficiently.</p>
                 </div>
             </div>
             <div className=' container my-5'>
@@ -108,6 +108,27 @@ const About = () => {
                     </div>
                 </div>
 
+                <div>
+                    <h4 className=' mt-3'>mySQL</h4>
+                    <div className="progress my-3">
+                        <div className="progress-bar bg-warning progress-bar-striped" role="progressbar" style={{ width: "70%" }} aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">70%</div>
+                    </div>
+                </div>
+
+                <div>
+                    <h4 className=' mt-3'>React-Native</h4>
+                    <div className="progress my-3">
+                        <div className="progress-bar bg-success progress-bar-striped" role="progressbar" style={{ width: "50%" }} aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">50%</div>
+                    </div>
+                </div>
+
+                <div>
+                    <h4 className=' mt-3'>Next-Js /TypeScript</h4>
+                    <div className="progress my-3">
+                        <div className="progress-bar bg-success progress-bar-striped" role="progressbar" style={{ width: "75%" }} aria-valuenow="65" aria-valuemin="0" aria-valuemax="100">75%</div>
+                    </div>
+                </div>
+
             </div>
 
             <div>
@@ -117,10 +138,10 @@ const About = () => {
                     </div>
                     <div class="card-body d-flex flex-column">
                         <h5 class=" my-4 profilename py-0">INTRODUCTION</h5>
-                        <p class="card-text  my-3  heading ">I Am Om Prakash Gupta From Samahuta.I Am Student of Class M.C.A Frist year From KALINGA UNIVERSITY (RAIPUR)..I Have Completed B.C.A  From Jawaharlal Nehru College (Dehri on Sone), I Have Created Many Project Using This Langauges.It Has Been Uploaded On My Github Account.</p>
-                        <p class="card-text   my-3  heading ">I Am Quick Learner And Hope To Acheive My Goals Through Sheer Hard Work.I Have A Thirst For knowledge And Like To Devlop my Skill That Can Take Me To A More Advanced Level.I Have A Creative Mind And Am Always Up For New Challenges.I Am Well Organized And Always Plan Ahead to Make Sure I Manage my Time well.</p>
+                        <p class="card-text  my-3  heading ">I Am Om Prakash Gupta From Bihar. I Have Completed a Master of Computer Application from Kalinaga University in Raipur.I have a diverse background in the corporate world, with experience gained from multiple multinational companies.</p>
+                        <p class="card-text   my-3  heading ">I specialize in a wide range of programming languages, including HTML, CSS,React-Native, JavaScript, and various libraries such as React-js and Node-js. I am also proficient in database management using PostgreSQL and MongoDB.Understanding of DB architecture design and programming templates, Agile methodologies, client-side and server-side procedures.</p>
                         <p class="card-text   my-3  heading ">I Am Able To Work On
-                            ES6,RESTFULL-API,HTML/CSS,Bootstrap,JAVASCRIPT,NODE-JS,NODE-EXPRSS,MONGODB,MONGOOSE,CRUD OPERATION,REACT-JS,GIT,GITHUB..ETC</p>
+                            API,FETCH,PROMISE,ASYNC AWAIT,ES6,RESTFULL-API,HTML/CSS,Bootstrap,JAVASCRIPT,NODE-EXPRSS,MONGODB,MONGOOSE,MYSQL,React-Native,CRUD OPERATION.ETC</p>
 
                     </div>
                     <div class="card-footer text-muted">
